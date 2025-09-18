@@ -1,0 +1,37 @@
+{
+  "edges": [
+    {
+      "fromNode": "90fcfea1216dbedb",
+      "fromSide": "bottom",
+      "id": "afe2c33b0f8201c5",
+      "styleAttributes": {
+      },
+      "toNode": "4578a7cf4e67b56f",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "90fcfea1216dbedb",
+      "styleAttributes": {
+      },
+      "text": "Обработка - Создает документы.",
+      "type": "text",
+      "width": 260,
+      "x": -241,
+      "y": -330
+    },
+    {
+      "height": 124,
+      "id": "4578a7cf4e67b56f",
+      "styleAttributes": {
+      },
+      "text": "1. ВводОстатков\n2. ОтражениеНДСкВычету\n3. ОперацииВведенныеВручную",
+      "type": "text",
+      "width": 357,
+      "x": -111,
+      "y": -195
+    }
+  ]
+}
