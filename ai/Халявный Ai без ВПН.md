@@ -1,0 +1,12 @@
+1. https://onyx.app/
+2. https://chat.deepseek.com/
+3. https://chat.mistral.ai/chat
+4. https://labs.perplexity.ai/
+5. https://chat.sonus.ai/sonus/
+6. https://opencanvas.langchain.com/
+7. https://chat.qwenlm.ai/
+8. https://www.hailuo.ai/
+9. https://chat.z.ai/
+10. https://www.kimi.com/
+11. https://chat.minimax.io/
+12. https://ernie.baidu.com/

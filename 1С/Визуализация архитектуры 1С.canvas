@@ -1,0 +1,118 @@
+{
+  "edges": [
+    {
+      "fromNode": "5b7ffd5f1e7d330b",
+      "fromSide": "top",
+      "id": "ceb7b36dc638ff9e",
+      "styleAttributes": {
+      },
+      "toNode": "e75d846ec6ee835e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e75d846ec6ee835e",
+      "fromSide": "bottom",
+      "id": "1752d6a675141f48",
+      "styleAttributes": {
+      },
+      "toNode": "5b7ffd5f1e7d330b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e9d2cc037f2c9e1d",
+      "fromSide": "left",
+      "id": "28447950b4f48bbf",
+      "styleAttributes": {
+      },
+      "toNode": "8deee14ecfc0b62b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8deee14ecfc0b62b",
+      "fromSide": "right",
+      "id": "a5c020c6ccf814f4",
+      "styleAttributes": {
+      },
+      "toNode": "e9d2cc037f2c9e1d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e9d2cc037f2c9e1d",
+      "fromSide": "left",
+      "id": "0f41d47f0d81a4eb",
+      "styleAttributes": {
+      },
+      "toNode": "631c1cb7d065c426",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "631c1cb7d065c426",
+      "fromSide": "right",
+      "id": "74f9aec78f5c5e23",
+      "styleAttributes": {
+      },
+      "toNode": "e9d2cc037f2c9e1d",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 652,
+      "id": "631c1cb7d065c426",
+      "label": "1C сервер",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1095,
+      "x": -693,
+      "y": -1372
+    },
+    {
+      "height": 552,
+      "id": "8deee14ecfc0b62b",
+      "label": "1С платформа",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 839,
+      "x": -693,
+      "y": -1272
+    },
+    {
+      "height": 60,
+      "id": "5b7ffd5f1e7d330b",
+      "styleAttributes": {
+      },
+      "text": "###### Ядро платформы",
+      "type": "text",
+      "width": 260,
+      "x": -662,
+      "y": -805
+    },
+    {
+      "height": 60,
+      "id": "e75d846ec6ee835e",
+      "styleAttributes": {
+      },
+      "text": "**Глобальные метаданные**",
+      "type": "text",
+      "width": 254,
+      "x": -460,
+      "y": -936
+    },
+    {
+      "height": 71,
+      "id": "e9d2cc037f2c9e1d",
+      "styleAttributes": {
+        "shape": "database"
+      },
+      "text": "# СУБД",
+      "type": "text",
+      "width": 135,
+      "x": 484,
+      "y": -977
+    }
+  ]
+}

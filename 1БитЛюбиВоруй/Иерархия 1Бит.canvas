@@ -1,0 +1,97 @@
+{
+  "edges": [
+    {
+      "fromNode": "95b37a509caae9ca",
+      "fromSide": "bottom",
+      "id": "5a363acb796327f1",
+      "styleAttributes": {
+      },
+      "toNode": "1584b9114eb414b3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1584b9114eb414b3",
+      "fromSide": "bottom",
+      "id": "5d1cecfa14b78fb1",
+      "styleAttributes": {
+      },
+      "toNode": "f9999752ea0ded72",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f9999752ea0ded72",
+      "fromSide": "bottom",
+      "id": "d2588edcddda87cb",
+      "styleAttributes": {
+      },
+      "toNode": "7a4a249111b8ea19",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7a4a249111b8ea19",
+      "fromSide": "bottom",
+      "id": "03402003947b9366",
+      "styleAttributes": {
+      },
+      "toNode": "9369fa9be28dc67b",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "1584b9114eb414b3",
+      "styleAttributes": {
+      },
+      "text": "Мой руководитель",
+      "type": "text",
+      "width": 260,
+      "x": -162,
+      "y": -177
+    },
+    {
+      "height": 60,
+      "id": "f9999752ea0ded72",
+      "styleAttributes": {
+      },
+      "text": "Наставник",
+      "type": "text",
+      "width": 260,
+      "x": -162,
+      "y": -77
+    },
+    {
+      "height": 60,
+      "id": "7a4a249111b8ea19",
+      "styleAttributes": {
+      },
+      "text": "Менеджер",
+      "type": "text",
+      "width": 260,
+      "x": -162,
+      "y": 23
+    },
+    {
+      "height": 60,
+      "id": "95b37a509caae9ca",
+      "styleAttributes": {
+      },
+      "text": "Руководитель Отдела",
+      "type": "text",
+      "width": 260,
+      "x": -162,
+      "y": -277
+    },
+    {
+      "height": 60,
+      "id": "9369fa9be28dc67b",
+      "styleAttributes": {
+      },
+      "text": "Я",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 120
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+- https://www.napkin.ai/
+- https://notebooklm.google/
+- https://app.presentations.ai/
+- https://auphonic.com/
